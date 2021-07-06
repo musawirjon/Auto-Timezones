@@ -1,4 +1,4 @@
-## Laravel 5.6 + Vue.js - Simple CRUD Demo
+## Laravel  + Vue.js Crud with default timezone listings
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there
